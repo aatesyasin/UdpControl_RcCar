@@ -1,6 +1,6 @@
 # UDP İle Rc Araç Kontrolü
 Proje, linux tabanlı geliştirme kartları ile otonom araçlarda kullanılmak üzere planlanarak geliştirilmeye başlanmıştır. (Ekim2019)
-##.
+## .
 ![alt text](https://github.com/aatesyasin/UdpControl_RcCar/blob/main/Aracfoto/6.jpg)
 
 
@@ -23,7 +23,7 @@ Proje, linux tabanlı geliştirme kartları ile otonom araçlarda kullanılmak �
 ## Araç Fotoğrafları
 ![alt text](https://github.com/aatesyasin/UdpControl_RcCar/blob/main/Aracfoto/Direksiyon_servo.jpg)
 
-![alt text]https://github.com/aatesyasin/UdpControl_RcCar/blob/main/Aracfoto/MotorS%C3%BCrc%C3%BC_motorGrubu.jpg)
+![alt text](https://github.com/aatesyasin/UdpControl_RcCar/blob/main/Aracfoto/MotorS%C3%BCrc%C3%BC_motorGrubu.jpg)
 
 ![alt text](https://github.com/aatesyasin/UdpControl_RcCar/blob/main/Aracfoto/PilGrubu.jpg)
 
